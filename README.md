@@ -11,26 +11,3 @@ I've been into programming since I was in high school, designing simple HTML pag
 *   🧠  I'm learning System design and deeper web development
 *   🤝  I'm open to collaborating on any type of projects
 *   📃  My [CV](https://drive.google.com/file/d/1R8ZcGrtgMNdW8mrhtt-CamlPVvRkcr9Q/view?usp=sharing)
-                    
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/T4jgat" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/talgat-mukhtarov-323436240/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a>
-</p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/T4jgat"><img src="https://github-readme-stats.vercel.app/api?username=T4jgat&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="T4jgat's GitHub stats" /></a>
