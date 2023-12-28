@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I've been into programming since I was in high school, designing simple HTML pages and programming a console calculator in python. I started to seriously consider my career path as a programmer in the last years of high school. A year ago I entered Astana IT University and am actively studying programming both at the university and on my own. At the moment I stopped on Java Spring Framework stack. But I am also actively studying other technologies, such as Node.js for myself. I have quite a few pet projects, which you can see here. Welcome💫
+Since high school, I’ve been passionate about programming, starting with HTML and Python. My serious pursuit of a programming career began in my final years of high school. I’m currently a student at Astana IT University, where I’m actively learning programming. I’m focusing on the Java Spring Framework, but I’m also exploring Node.js. I have several personal projects that I’m proud of. Welcome💫
 
 *   🌍  I'm based in Astana
 *   ✉️  You can contact me at [tmtmtm1423@gmail.com](mailto:tmtmtm1423@gmail.com)
